@@ -1,0 +1,12 @@
+body {
+  background-color: #ffe;
+  height: 1500px;
+}
+
+.bread {
+  position: absolute;
+  height: 30px;
+  width: 45px;
+  border-radius: 35%;
+  border: 3px solid black;
+}
